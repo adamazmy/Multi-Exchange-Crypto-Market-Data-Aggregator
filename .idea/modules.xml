@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Multi-Exchange-Crypto-Market-Data-Aggregator.iml" filepath="$PROJECT_DIR$/.idea/Multi-Exchange-Crypto-Market-Data-Aggregator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/realtimecryptoaggregator.main.iml" filepath="$PROJECT_DIR$/.idea/modules/realtimecryptoaggregator.main.iml" />
     </modules>
   </component>
 </project>
