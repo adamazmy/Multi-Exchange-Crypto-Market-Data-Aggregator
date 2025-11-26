@@ -1,7 +1,8 @@
-package com.adamazmy2.cryptoaggregator.service;
+package com.adamazmy.cryptoaggregator.service;
 
+import com.adamazmy.cryptoaggregator.model.dto.PriceUpdateDto;
 import org.springframework.stereotype.Service;
-import com.adamazmy2.cryptoaggregator.model.dto.*;
+import com.adamazmy.cryptoaggregator.model.dto.*;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

@@ -1,4 +1,4 @@
-package com.adamazmy2.cryptoaggregator.model.dto;
+package com.adamazmy.cryptoaggregator.model.dto;
 
 import java.math.BigDecimal;
 import java.time.Instant;

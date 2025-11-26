@@ -1,4 +1,4 @@
-package com.adamazmy2.cryptoaggregator;
+package com.adamazmy.cryptoaggregator;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
